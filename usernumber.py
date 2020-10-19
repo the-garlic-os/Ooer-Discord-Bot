@@ -1,3 +1,5 @@
+# By garlicOS®
+
 import random
 
 def _get_counter_with_file(f, user_id: str) -> int:
